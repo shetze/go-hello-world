@@ -3,7 +3,7 @@
 # repo_name - Name of Github repository
 # app_path - Relative path to app directory containing main.go, from GOPATH
 # app_name - App name
-repo_url: https://github.com/ktenzer/go-hello-world.git
+repo_url: https://github.com/shetze/go-hello-world.git
 repo_branch: master
 repo_name: hello
 app_path: hello/src

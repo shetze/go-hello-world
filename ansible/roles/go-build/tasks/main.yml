@@ -11,6 +11,13 @@
       - python3-libselinux
     state: latest
   become: true
+  
+- name: Install git
+  dnf:
+    name:
+      - git
+    state: latest
+  become: true
 
 - name: Create Go src directory
   file:

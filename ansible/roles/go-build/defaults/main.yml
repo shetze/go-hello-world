@@ -4,7 +4,7 @@
 # app_path - Relative path to app directory containing main.go, from GOPATH
 # app_name - App name
 repo_url: https://github.com/shetze/go-hello-world.git
-repo_branch: feature-1
+repo_branch: master
 repo_name: hello
 app_path: hello/src
 app_name: hello

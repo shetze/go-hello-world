@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	<broken>
 	router := NewRouter()
 
 
